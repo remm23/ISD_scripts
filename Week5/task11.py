@@ -13,5 +13,6 @@ while True:
     attempts += 1
     if attempts >= 5:
         print("Access denied")
+        input("Please press enter to exit and contact security ti reset your password")
         break
 
