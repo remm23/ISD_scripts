@@ -1,0 +1,43 @@
+a. What’s a class?
+    In object-oriented programming
+    a class is a template for the method's and properties for 
+    a particular kind of object.
+
+b. What’s an instance?
+    An instance or an object is the creation of the class when initialised
+
+c. What’s the relationship between a class and an instance?
+    the class definds what properties and methods the instance will have
+    before it is instantiated into an object
+
+d. What’s the Python syntax used for defining a new class?
+    the "class" keyword is used to define a new class
+
+e. What’s the spelling convention for a class name?
+    the spelling convention for a class name is to capitalize the first letter
+
+f. How do you instantiate, or create an instance of, a class?
+    a class instance is created by assining the class to a variable and initializing it with parenthesis
+
+g. How do you access the attributes and behaviors of a class instance?
+    once an class has been instantiated, the properties and methods can be accesed by dot notation,
+    for example: 
+    print(a.name) # this will print the name property of a
+
+h. What’s a method?
+    a method is exactly like a function but it is part of a class
+
+i. What’s the purpose of self?
+    the purpose of self is to reffer to the peoperties of the class itself
+
+j. What’s the purpose of the __init__ method?
+    the __init__ method is called once the class has been instantiated. 
+    It initalizes all the properties in a class
+
+k. Describe how inheritance helps prevent code duplication.
+    inheritance helps prevent code duplication by allowing sub classes to use properties and methods from super classes
+
+
+
+task 4 is 24
+task 5 is "Geek1", True, "E101"
